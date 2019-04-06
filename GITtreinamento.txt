@@ -1,2 +1,4 @@
 . git init 
 	Cria um repositorio git local
+	
+Juliana teste*
