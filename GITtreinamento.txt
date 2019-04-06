@@ -2,6 +2,7 @@
 	Cria um repositorio git local
 	
 . git stash
+
 tira o estado sujo do seu diretório de trabalho — 
 isto é, seus arquivos modificados que estão sendo rastreados e mudanças na área de seleção — 
 e o salva em uma pilha de modificações inacabadas que você pode voltar a qualquer momento.
